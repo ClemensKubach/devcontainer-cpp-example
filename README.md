@@ -17,13 +17,7 @@ Last steps for cpp development:
 2. Build/compile using the bottom menu of vscode
 
 ## Further Information
-The next steps are independent of your local machine and the most stuff has already been setup.
-Just follow the last steps:
 - At the bottom left corner you can validate that you are now using a remote connection to your local dev container: `c++ at dektop-linux`.
 - Via clicking on the blue corner, you can "Close the remote connection" and "Reopen in Container".
-- For syncing your changes with others, you use git. You can use it via terminal and via GUI (the Source Control-icon on the left side in vscode). I recommend the use of the GUI. Ask for explaination. In general, the most important commands are pull/fetch, add, commit and push.
-
-Via the bottom menu of vscode, you can build and run your files.
-
-**To access the desktop/gui of your devcontainer:**
-Open http://localhost:6080/ in a browser.
+- Via the bottom menu of vscode, you can build and run your files.
+- **To access the desktop/gui of your devcontainer:** Open http://localhost:6080/ in a browser (default password: vscode).
